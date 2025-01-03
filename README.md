@@ -21,7 +21,7 @@ The dataset used for this analysis contains sales information for various audio 
 
 ## How to Use
 1. Clone or download the repository.
-2. Open the Power BI file (`Sales_Analysis.pbix`) to explore the dashboard.
+2. Open the Power BI file (`Product-Sales-Dashboard.pbix`) to explore the dashboard.
 3. Review the SQL queries used to extract and analyze the data in the SQL script files.
 
 ## Results & Screenshots
