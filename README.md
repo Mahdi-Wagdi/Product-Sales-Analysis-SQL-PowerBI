@@ -25,7 +25,7 @@ The dataset used for this analysis contains sales information for various audio 
 3. Review the SQL queries used to extract and analyze the data in the SQL script files.
 
 ## Results & Screenshots
-![Dashboard Screenshot](path/to/dashboard-image.png)
+![Dashboard Screenshot]([path/to/dashboard-image.png](https://github.com/Mahdi-Wagdi/Product-Sales-Analysis-SQL-PowerBI/blob/main/Dashboard-Product-Sales.png))
 
 ## Future Improvements
 - Incorporate additional data sources (e.g., customer demographics) for more detailed analysis.
