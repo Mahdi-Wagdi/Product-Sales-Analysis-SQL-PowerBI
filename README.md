@@ -26,7 +26,3 @@ The dataset used for this analysis contains sales information for various audio 
 
 ## Results & Screenshots
 ![Product Sales Dashboard](https://github.com/Mahdi-Wagdi/Product-Sales-Analysis-SQL-PowerBI/blob/main/Dashboard-Product-Sales.png)
-
-## Future Improvements
-- Incorporate additional data sources (e.g., customer demographics) for more detailed analysis.
-- Create a predictive model to forecast future sales trends.
